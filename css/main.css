@@ -2013,7 +2013,6 @@ body:after {
 }
 
 .banner-area{
-  mask-image: url("../img/Vector-01.png");
   background-repeat: no-repeat;
   background-size: cover;
   /* position: relative;  */
